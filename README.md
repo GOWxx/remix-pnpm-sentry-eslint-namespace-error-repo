@@ -31,6 +31,8 @@ Sentry.replayIntegration(),
 // 'replayIntegration' not found in imported namespace 'Sentry'.
 ```
 
+![remix-vite-sentry-namespace-error](./remix-vite-sentry-namespace-error.png)
+
 ## How was this project created
 
 ### remix init
